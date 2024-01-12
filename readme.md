@@ -59,7 +59,3 @@ ____
 
 ### ``** Ready to develop for other pure PHP projects **``
 
-
-### Connect with me:
-Linkedin: [ramoures](https://www.linkedin.com/in/ramoures/)<br>
-E-mail: ramoures@gmail.com
