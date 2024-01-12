@@ -1,16 +1,8 @@
 # PHP-Phone-Book
-#### This is my first public repository on github. 
 
 [<img src="screenshot.png">](https://awaweb.ir/projects/free/php_phone_book)
 [<img src="screenshot2.png">](https://awaweb.ir/projects/free/php_phone_book/admin2023)
 
-___
-### Demo 
-> UTC Timezone
-+ [Admin panel demo](https://awaweb.ir/projects/free/php_phone_book/admin2023) &#8628;
-     > **username:** admin<br> 
-     > **password:** 123  
-+ [Front page demo](https://awaweb.ir/projects/free/php_phone_book)
 
 ### Setup
 1. Create a new MySQL database.
